@@ -1,0 +1,53 @@
+.container{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header{
+    background-color:#C653C2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+table{
+    border-spacing:5px; 
+    border-color: black;
+}
+
+th:hover{
+    background-color: rgb(209, 209, 209);
+    
+}
+.body{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 20vw;
+
+}
+
+.content{
+    width: 93%;
+    margin-top: 3%;
+}
+
+a{
+    text-decoration: none; 
+    color: inherit;
+}
+
+form{
+    font-size: 1.5vw;
+}
+
+.botao{
+    width: 8%;
+}
